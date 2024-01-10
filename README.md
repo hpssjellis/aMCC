@@ -4,6 +4,13 @@ Studying the anterior midcingulate cortex (aMCC) for fun
 
 
 
+I would really like a neuroCcientists view of this but as far as I can tell the anterior midcingulate cortex (aMCC) which I will effectionately call the anterior mc^2 looks like it is important for emotion regulation, decision-making under conflict, pain processing, and cognitive control. As a computer coding teacher for ~35 years I have been very interested in why coding over the last decade has been much harder to teach. I always have had the natural logic ability coders, and in some ways I have more of those type of students, but the student who isn't a natural coder I have always been able to teach them how to code, over the last decade this ability to teach non-natural coders has plumeted. 7 years ago I thought it was cell phones so spent hours devising ways to put cell phones in jail etc, with minimal success and very little other teacher support. Now that other teachers are more aware of the negatives of cell phones more teachers are interested in reducing cell phone. 
+
+In my opinion a poorly developed anterior midcingulate cortex (aMCC) might be part of the problem, and instead of endlessly talking about it as the cause of the probelm I wonder if I can improve the anterior midcingulate cortex (aMCC) in my students if the problem will be reduced more than banning cell phones.
+
+
+
+
 
 
 
