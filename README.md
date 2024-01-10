@@ -16,7 +16,7 @@ I like these 3D Printed cases I made for student's phones when they need to go t
 <img width="100" alt="image" src="https://github.com/hpssjellis/aMCC/assets/5605614/a6858622-cf21-4ea5-be77-cf9fc0534c14"><br><br>
 
 
-Best I like these cell phone bags ziptied to the computer cable. Students can use the phone it is just really obvious and irritating for them<br>
+Best I like these cell phone bags zip-tied to the computer cable. Students can use the phone it is just really obvious and irritating for them<br>
 <img width="100" alt="image" src="https://github.com/hpssjellis/aMCC/assets/5605614/662ba602-ca4a-4530-9278-a9dbf487973e"><br><br>
 
 
