@@ -9,15 +9,15 @@ I would really like a neuroCcientists view of this but as far as I can tell the 
 ## My cell phone jails (which really don't work very well)
 
 What the school purchased as a cell phone rack, but gives no security to the students devices<br>
-<img width="245" alt="image" src="https://github.com/hpssjellis/aMCC/assets/5605614/7a2db77e-ecd3-4e0b-a96b-d925de5a9bd4"><br><br>
+<img width="100" alt="image" src="https://github.com/hpssjellis/aMCC/assets/5605614/7a2db77e-ecd3-4e0b-a96b-d925de5a9bd4"><br><br>
 
 
 I like these 3D Printed cases I made for student's phones when they need to go to the bathroom<br>
-<img width="231" alt="image" src="https://github.com/hpssjellis/aMCC/assets/5605614/a6858622-cf21-4ea5-be77-cf9fc0534c14"><br><br>
+<img width="100" alt="image" src="https://github.com/hpssjellis/aMCC/assets/5605614/a6858622-cf21-4ea5-be77-cf9fc0534c14"><br><br>
 
 
-Best I like these cell phone bags ziptied to the computer cable. Students can use the phone it is just really obvious and irritating for them
-<img width="155" alt="image" src="https://github.com/hpssjellis/aMCC/assets/5605614/662ba602-ca4a-4530-9278-a9dbf487973e"><br><br>
+Best I like these cell phone bags ziptied to the computer cable. Students can use the phone it is just really obvious and irritating for them<br>
+<img width="100" alt="image" src="https://github.com/hpssjellis/aMCC/assets/5605614/662ba602-ca4a-4530-9278-a9dbf487973e"><br><br>
 
 
 Generally most cell phone jails become a pain to enforce and don't seem to improve the learning. I still have them but more as a threat for the few students who can't seem to settle down to working. I find I have to supply the locks as students simply say they forgot theres.
@@ -62,4 +62,4 @@ These activities, by pushing the limits of comfort, both physically and mentally
 
 
 
-These seem a bit intense for the classroom, but perhaps just coding is the solution, with my students understanding why they can't concentrate.
+These seem a bit intense for the classroom, but perhaps just coding is the solution, with my students understanding why they can't concentrate don't like the discomfort of learning how to code..
