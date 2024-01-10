@@ -20,7 +20,7 @@ Best I like these cell phone bags zip-tied to the computer cable. Students can u
 <img width="100" alt="image" src="https://github.com/hpssjellis/aMCC/assets/5605614/662ba602-ca4a-4530-9278-a9dbf487973e"><br><br>
 
 
-Generally most cell phone jails become a pain to enforce and don't seem to improve the learning. I still have them but more as a threat for the few students who can't seem to settle down to working. I find I have to supply the locks as students simply say they forgot theres.
+Generally most cell phone jails become a pain to enforce and don't seem to improve the learning. I still have them but more as a threat for the few students who can't seem to settle down to working. I find I have to supply the locks as students simply say they forgot theirs.
 
 As I said I am in a computer lab anyway so technology is everywhere and the cell phone jails do not seem to be improving the situation of non-natural coders learning how to code.
 
