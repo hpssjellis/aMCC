@@ -77,5 +77,37 @@ By continuously introducing new challenges and not allowing the activities to be
 
 
 
+## More for Coders
+
+
+
+Participate in Coding Hackathons: Engaging in time-bound coding challenges with new problems to solve can stimulate the aMCC.
+
+Learn New Programming Languages Regularly: Switching between different programming languages prevents the process from becoming habitual.
+
+Contribute to Open Source Projects: This involves adapting to different coding styles and understanding new codebases, which can be challenging.
+
+Engage in Peer Code Reviews: Analyzing and critiquing others' code requires critical thinking and adaptability.
+
+Tackle Real-World Problems: Applying coding skills to solve real-world problems can present unique challenges and learning opportunities.
+
+Create Personal Projects with New Technologies: Regularly starting projects with technologies or frameworks you're unfamiliar with can be both challenging and rewarding.
+
+Participate in Online Coding Challenges and Quizzes: Regular engagement in online platforms that offer coding quizzes and challenges can help in continuously pushing one's boundaries.
+
+These activities align with the need for continuous learning and adaptation in the field of computer programming, thus aiding in the development of the aMCC.****
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 These seem a bit intense for the classroom, but perhaps just coding is the solution, with my students understanding why they can't concentrate don't like the discomfort of learning how to code..
