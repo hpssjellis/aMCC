@@ -60,6 +60,22 @@ I would focus on activities that engage and challenge the anterior midcingulate 
 
 These activities, by pushing the limits of comfort, both physically and mentally, can help in strengthening the aMCC's capabilities in handling stress, making difficult decisions, and regulating emotions. It's important to approach these activities with mindfulness and an understanding of personal limits to avoid undue stress or injury.
 
+Certainly, considering that the aMCC is engaged more actively during novel or non-habitual challenging tasks, here are five additional activities that can stimulate the aMCC by continuously introducing new elements or challenges:
+
+1. **Rotating Fitness Challenges**: Instead of sticking to a regular workout routine, regularly change your fitness regimen. For example, switch between different forms of exercise like swimming, trail running, rock climbing, or dance classes every few weeks. This variety keeps the body and brain guessing, continuously engaging the aMCC in adapting to new physical challenges.
+
+2. **Learning New Languages**: The process of learning a new language is inherently challenging and involves a lot of cognitive control, especially in the initial stages. To continuously engage the aMCC, one could focus on learning the basics of a new language every few months before the process becomes habitual.
+
+3. **Varied Puzzle Solving**: Engage in different types of puzzles or brain games, and regularly switch the types. Moving from crosswords to Sudoku, then to logic puzzles or 3D spatial puzzles, can continuously challenge the brain in new ways, keeping the aMCC active.
+
+4. **Travel to New Destinations**: Traveling, especially to places that are culturally different or where you don’t speak the language, can be a significant challenge involving a lot of on-the-spot problem solving and emotional regulation, thus stimulating the aMCC. 
+
+5. **Taking Up Diverse Creative Hobbies**: Engage in creative hobbies that are outside of your comfort zone and rotate them periodically. For example, you could start with painting, then move to writing short stories, then to learning a musical instrument. Each new creative endeavor challenges the aMCC in unique ways.
+
+By continuously introducing new challenges and not allowing the activities to become habitual or routine, you can effectively engage and strengthen the aMCC. It's about keeping the brain constantly adapting and learning, which is key to cognitive development and resilience.
+
+
+
 
 
 These seem a bit intense for the classroom, but perhaps just coding is the solution, with my students understanding why they can't concentrate don't like the discomfort of learning how to code..
