@@ -1,4 +1,6 @@
 Do you know what a LAM like rabbit.tech is?
+
+
 ChatGPT
 The Large Action Model (LAM) by rabbit.tech is a new type of foundational AI model that is designed to understand human intentions on computers. LAM is the cornerstone of rabbit OS, an AI-powered personalized operating system. This system allows users to interact with their devices using natural language instead of conventional apps and menus. rabbit OS can comprehend complex user intentions, operate user interfaces, and perform actions on behalf of the user.
 
