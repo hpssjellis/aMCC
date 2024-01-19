@@ -2,7 +2,7 @@
 Studying the anterior midcingulate cortex (aMCC) for fun
 
 
-The AMCC is the Nanny McFee of brain areas. When you don't want to do something that is good for you you need a developed anterior midcingulate cortex to give you the activation energy to do the thing, and once something is a healthy habit you then don't need the aMCC anymore.
+The aMCC is the Nanny McFee of brain areas. When you don't want to do something that is good for you you need a developed anterior midcingulate cortex to give you the activation energy to do the thing, and once something is a healthy habit you then don't need the aMCC anymore.
 
 ```
 
