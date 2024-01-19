@@ -7,7 +7,10 @@ The AMCC is the Nanny McFee of brain areas. When you don't want to do something 
 ```
 
 
-Nanny McPhee: There is something you should understand about the way I work. When you need me but do not want me, then I must stay. When you want me but no longer need me, then I have to go.
+Nanny McPhee:
+There is something you should understand about the way I work.
+When you need me but do not want me, then I must stay.
+When you want me but no longer need me, then I have to go.
 
 ```
 
