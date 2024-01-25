@@ -137,11 +137,11 @@ These seem a bit intense for the classroom, but perhaps just coding is the solut
 
 
 # My suggestions to develop your DAM-C^2
-(Generally anytime a student does something that is good for them and they don't really have to do it, they are developing their aMCC  (DAM-C^2). Reminder as soon as an activity becomes a habit, that is great but is no longer developing your aMCC
+(Generally anytime a student does something that is good for them and they don't really have to do it, they are developing their aMCC  (DAM-C^2). Reminder as soon as an activity becomes a habit, that is great but it is no longer developing your aMCC
 
 Activities might include:
 
-1. At the endof their shower turning it cold for a minute
+1. At the end of their shower turning the water it cold for a minute
 2. Eating a vegetable when know one is looking
 3. Randomly doing pushups or situps                                                  <br><br>
 4. Being nice to someone they don't know when know one else is around
@@ -158,8 +158,10 @@ Activities might include:
 15. Try a musical instrument for a few minutes each day                                   <br><br>
 16. Go for a short jog as long as it is safe
 17. Go for a short bike ride as long as it is safe
-18. 
-
+18. Randomly do the dishes without being asked
+19. Randomly clean your room
+20. Randomly telling a family member or friend that you appreciate them.
+21. 
 
 
 
