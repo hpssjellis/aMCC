@@ -143,7 +143,7 @@ These seem a bit intense for the classroom, but perhaps just coding is the solut
 
 Activities might include:
 
-1. At the end of their shower turning the water it cold for a minute
+1. At the end of their shower turning the water on cold for a minute
 2. Eating a vegetable when know one is looking
 3. Randomly doing pushups or situps                                                 <br><br>
 4. Being nice to someone they don't know when know one else is around
