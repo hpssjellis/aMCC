@@ -1,6 +1,10 @@
 # anterior-midcingulate-cortex-and-teenagers
 Studying the anterior midcingulate cortex (aMCC) for fun
 
+For my students I think I will call it the DAM-C^2 (DAM C squared)  as that includes the concept of Developing your aMCC
+
+See the end of this page for suggestions to improve your DAM-C^2   
+
 
 The aMCC is the Nanny McFee of brain areas. When you don't want to do something that is good for you you need a developed anterior midcingulate cortex to give you the activation energy to do the thing, and once something is a healthy habit you then don't need the aMCC anymore.
 
@@ -128,4 +132,46 @@ Volunteering in Community Projects: This often requires a diverse set of skills 
 
 ## Summary
 
-These seem a bit intense for the classroom, but perhaps just coding is the solution, with my students understanding why they can't concentrate don't like the discomfort of learning how to code..
+These seem a bit intense for the classroom, but perhaps just coding is the solution, with my students understanding why they can't concentrate don't like the discomfort of learning how to code.
+
+
+
+# My suggestions to develop your DAM-C^2
+(Generally anytime a student does something that is good for them and they don't really have to do it, they are developing their aMCC  (DAM-C^2). Reminder as soon as an activity becomes a habit, that is great but is no longer developing your aMCC
+
+Activities might include:
+
+1. At the endof their shower turning it cold for a minute
+2. Eating a vegetable when know one is looking
+3. Randomly doing pushups or situps                                                  <br>
+4. Being nice to someone they don't know when know one else is around
+5. Saying "Hi" to people in their class that are not in their group.
+6. Study for a test                                                                   <br>
+7. Come to school when you could have stayed home
+8. Learn more than is needed to pass a course
+9. When you have a test the next day go to sleep at a reasonable time                    <br>
+10. Say "Hi" to someone you see coming towards you in the school hallway when you are the only two around.
+11. Use ChatGPT (or Bing chat etc) to help you understand a concept you don't know.
+12. Do a puzzel                                                                          <br>
+13. Try some Brain teasers
+14. Try an IQ test, SAT or GRE practise test
+15. Try a musical instrument for a few minutes each day                                   <br>
+16. Go for a short jog as long as it is safe
+17. Go for a short bike ride as long as it is safe
+18. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
