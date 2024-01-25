@@ -143,19 +143,19 @@ Activities might include:
 
 1. At the endof their shower turning it cold for a minute
 2. Eating a vegetable when know one is looking
-3. Randomly doing pushups or situps                                                  <br>
+3. Randomly doing pushups or situps                                                  <br><br>
 4. Being nice to someone they don't know when know one else is around
 5. Saying "Hi" to people in their class that are not in their group.
-6. Study for a test                                                                   <br>
+6. Study for a test                                                                   <br><br>
 7. Come to school when you could have stayed home
 8. Learn more than is needed to pass a course
-9. When you have a test the next day go to sleep at a reasonable time                    <br>
+9. When you have a test the next day go to sleep at a reasonable time                    <br><br>
 10. Say "Hi" to someone you see coming towards you in the school hallway when you are the only two around.
 11. Use ChatGPT (or Bing chat etc) to help you understand a concept you don't know.
-12. Do a puzzel                                                                          <br>
+12. Do a puzzel                                                                          <br><br>
 13. Try some Brain teasers
 14. Try an IQ test, SAT or GRE practise test
-15. Try a musical instrument for a few minutes each day                                   <br>
+15. Try a musical instrument for a few minutes each day                                   <br><br>
 16. Go for a short jog as long as it is safe
 17. Go for a short bike ride as long as it is safe
 18. 
