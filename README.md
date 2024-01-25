@@ -163,9 +163,35 @@ Activities might include:
 18. Go for a short bike ride as long as it is safe
 19. Randomly do the dishes without being asked                                             <br><br>
 20. Randomly clean your room
-21. Randomly telling a family member or friend that you appreciate them.
+21. Randomly telling a family member or friend that you appreciate them.                                  <br><br>
 22. Ask a group of friends to read the same book and then you read that book (No worries if your friends don't)                                 <br><br>
-23. 
+23. Help a classmate with homework/classwork
+24. Donate an article of clothing                                  <br><br>
+25. Clean out a some old toys/books etc and donate them
+26. Buy one can of soup to donate to the food bank
+27. Teach a younger sibling a useful skill                                  <br><br>
+28. Plant a tree and don't tell anybody
+29. Start a club
+30. Donate some of your art to a seniors home or hospital                                  <br><br>
+31. Take a dog for a walk at an animal shelter
+32. Help with a sports team in the community or at school
+33. Start a kindness challenge at your school.                                  <br><br>
+34. Hold the door open for someone
+35. Give a real compliment
+36. Pick up some litter when people are watching but also when they aren't                                  <br><br>
+37. Turn off the lights when you are the last to leave a room
+38. Send a thnak you text
+39. Smile at a stranger (As long as it is safe to do)                                  <br><br>
+40. Put your phone down when in a social situation and people around you are talking
+41. Let someone go ahead in a line
+42. Drink a glass of clean water                                  <br><br>
+43. Take a deep breath when agitated before replying
+44. Recycle some trash instead of throwing it away
+45. Randomly wash your hands properly                                  <br><br>
+46. Say "Thank YOu"
+47. Offer your seat on public transportation
+48. Make a sketch of something                                  <br><br>
+49. Choose kind words carefully in a difficult conversation
 
 
 
