@@ -1,6 +1,8 @@
 # anterior-midcingulate-cortex-and-teenagers
 Studying the anterior midcingulate cortex (aMCC) for fun
 
+Below [here](https://github.com/hpssjellis/anterior-midcingulate-cortex-and-teenagers/blob/main/README.md#my-suggestions-to-develop-your-dam-c2) are my suggestions for students to develop their aMCC
+
 For my students I think I will call it the DAM-C^2 (DAM C squared)  as that includes the concept of Developing your aMCC
 
 See the end of this page for suggestions to improve your DAM-C^2   
@@ -143,25 +145,27 @@ Activities might include:
 
 1. At the end of their shower turning the water it cold for a minute
 2. Eating a vegetable when know one is looking
-3. Randomly doing pushups or situps                                                  <br><br>
+3. Randomly doing pushups or situps                                                 <br><br>
 4. Being nice to someone they don't know when know one else is around
-5. Saying "Hi" to people in their class that are not in their group.
-6. Study for a test                                                                   <br><br>
-7. Come to school when you could have stayed home
-8. Learn more than is needed to pass a course
-9. When you have a test the next day go to sleep at a reasonable time                    <br><br>
-10. Say "Hi" to someone you see coming towards you in the school hallway when you are the only two around.
-11. Use ChatGPT (or Bing chat etc) to help you understand a concept you don't know.
-12. Do a puzzel                                                                          <br><br>
-13. Try some Brain teasers
-14. Try an IQ test, SAT or GRE practise test
-15. Try a musical instrument for a few minutes each day                                   <br><br>
-16. Go for a short jog as long as it is safe
-17. Go for a short bike ride as long as it is safe
-18. Randomly do the dishes without being asked
-19. Randomly clean your room
-20. Randomly telling a family member or friend that you appreciate them.
-21. 
+5. If you find something in class try to find the owner
+6. Saying "Hi" to people in their class that are not in their group.
+7. Study for a test                                                                   <br><br>
+8. Come to school when you could have stayed home
+9. Learn more than is needed to pass a course
+10. When you have a test the next day go to sleep at a reasonable time                    <br><br>
+11. Say "Hi" to someone you see coming towards you in the school hallway when you are the only two around.
+12. Use ChatGPT (or Bing chat etc) to help you understand a concept you don't know.
+13. Do a puzzel                                                                          <br><br>
+14. Try some Brain teasers
+15. Try an IQ test, SAT or GRE practise test
+16. Try a musical instrument for a few minutes each day                                   <br><br>
+17. Go for a short jog as long as it is safe
+18. Go for a short bike ride as long as it is safe
+19. Randomly do the dishes without being asked                                             <br><br>
+20. Randomly clean your room
+21. Randomly telling a family member or friend that you appreciate them.
+22. Ask a group of friends to read the same book and then you read that book (No worries if your friends don't)                                 <br><br>
+23. 
 
 
 
