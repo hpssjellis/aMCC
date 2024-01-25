@@ -136,7 +136,7 @@ Volunteering in Community Projects: This often requires a diverse set of skills 
 
 These seem a bit intense for the classroom, but perhaps just coding is the solution, with my students understanding why they can't concentrate don't like the discomfort of learning how to code.
 
-
+## Note: In my opinion there are things that seem like they are developing your aMCC but they might not be: Examples of this are really strict parents that make you behave really well (basically forced to be good). Coaches that demand perfection or super human effort (Makes a great team but doesn't necessarily improve the athletes aMCC, because they were basically forced to be good). An alph teacher that demands high academic grades from the students (This is great training but once again is not developing the aMCC because you are being forced to learn at a high level). Cultural pressure to choose a career (Same thing just culturally being forced to do something).
 
 # My suggestions to develop your DAM-C^2
 (Generally anytime a student does something that is good for them and they don't really have to do it, they are developing their aMCC  (DAM-C^2). Reminder as soon as an activity becomes a habit, that is great but it is no longer developing your aMCC
