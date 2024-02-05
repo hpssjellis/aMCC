@@ -1,11 +1,8 @@
 # anterior-midcingulate-cortex-and-teenagers
-Studying the anterior midcingulate cortex (aMCC) for fun
+Studying the anterior midcingulate cortex (aMCC) with Teenagers and the Cell Phone Issue
 
-Below [here](https://github.com/hpssjellis/anterior-midcingulate-cortex-and-teenagers/blob/main/README.md#my-suggestions-to-develop-your-dam-c2) are my suggestions for students to develop their aMCC
+Below [here](https://github.com/hpssjellis/anterior-midcingulate-cortex-and-teenagers/blob/main/README.md#my-suggestions-to-develop-your-aMCC) are my suggestions for students to develop their aMCC
 
-For my students I think I will call it the DAM-C^2 (DAM C squared)  as that includes the concept of Developing your aMCC
-
-See the end of this page for suggestions to improve your DAM-C^2   
 
 
 The aMCC is the Nanny McFee of brain areas. When you don't want to do something that is good for you you need a developed anterior midcingulate cortex to give you the activation energy to do the thing, and once something is a healthy habit you then don't need the aMCC anymore.
@@ -47,6 +44,15 @@ As I said I am in a computer lab anyway so technology is everywhere and the cell
 
 
 In my opinion a poorly developed anterior midcingulate cortex (aMCC) might be part of the problem, and instead of endlessly talking about it as the cause of the problem I wonder if I can improve the anterior midcingulate cortex (aMCC) in my students, and if I do will the ability of non-coders improve in my class.
+
+
+
+## 
+
+
+
+
+
 
 
 
@@ -193,6 +199,32 @@ Activities might include:
 48. Make a sketch of something                                  <br><br>
 49. Choose kind words carefully in a difficult conversation
 
+
+
+
+
+## my-suggestions-to-develop-your-aMCC
+
+
+Building the skill of success with difficult activities
+
+
+# SPACES
+
+Difficult but doable activities that build motivatiotional confidence
+
+# S Social Health
+# P Physical Health
+# A Academic Health
+# C Creative Health
+# E Emotional Health
+# S Spiritual Health
+
+
+
+Possible Activities to try:
+
+coming up.
 
 
 
