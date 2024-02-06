@@ -211,14 +211,14 @@ Building the skill of success with difficult activities
 
 # SPACES
 
-Difficult but doable activities that build motivatiotional confidence
+Difficult but doable activities that build motivational confidence
 
 # S Social Health
 # P Physical Health
 # A Academic Health
 # C Creative Health
 # E Emotional Health
-# S Spiritual Health
+# S Serenity Health
 
 
 
